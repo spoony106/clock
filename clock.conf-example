@@ -1,0 +1,39 @@
+[system]
+onpi = yes
+displayicon = yes
+openweatherappid = aaaaa
+
+[paths]
+installdir = C:\clock\
+icondir = C:\clock\icons\
+tempdir = C:\clock\clocktemp\
+confdir = C:\clock\
+fontdir = C:\clock\font\
+
+[alarms]
+alarm1enabled = yes
+alarm1 = 07:00
+alarm1sound = Heart
+alarm1doty = 0,1,1,1,1,1,0
+alarm2enabled = yes
+alarm2 = 06:20
+alarm2sound = Heart
+alarm2doty = 0,0,0,0,0,0,0
+
+[countdown]
+countdownenabled = yes
+countdownday = 25
+countdownmonth = 12
+countdownyear = 2019
+
+[anniversary]
+anniversary1 = 01/01,image1.jpg,Pirates,Message1
+anniversary2 = 01/01,image1.jpg,Pirates,Message2
+anniversary3 = 01/01,image1.jpg,Pirates,Message3
+anniversary4 = 01/01,image1.jpg,Pirates,Message4
+anniversary5 = 25/12,image1.jpg,Pirates,Merry Christmas!
+anniversary6 = 01/01,image1.jpg,Pirates,Happy New Year!
+anniversary7 = 19/09,image1.jpg,Pirates,"Talk Like a Pirate Day!"
+anniversary8 = 14/02,image1.jpg,Pirates,"Happy Valentines Day"
+anniversary9 = 01/01,image1.jpg,Disney,Message9
+
